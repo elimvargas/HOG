@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510921847 source:/home/elim/opencv/HOG/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/objdetect/objdetect.hpp"
+	<opencv2/imgproc.hpp>
+	<opencv2/video.hpp>
+	<iostream>
+
